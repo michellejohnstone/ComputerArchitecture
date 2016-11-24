@@ -1,8 +1,11 @@
 # ComputerArchitecture
-Experiments in low-level language programming for Computer Architecture at Mills College, Fall 2016: 
+Low-level language programming exercises for Computer Architecture at Mills College, Fall 2016:
 
 * MIPSALU.qpf
-  * Implemented Overflow check for adding and subtracting 32 bit integers in Verilog. 
+  * Implemented Overflow check for adding and subtracting 32 bit integers in Verilog.
 
-* MIPSALU_Waveform.vwf 
-  * Runs a functional simulation of MIPSALU code and visually presents inputs and outputs. 
+* mux4Variable.v
+  * Implemented a variable-width 4-way multiplexer on top of 3 2-way multiplexers.
+
+* .vwf files
+  * Run functional simulations of code and visually present inputs and outputs.
