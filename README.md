@@ -9,3 +9,7 @@ Low-level language programming exercises for Computer Architecture at Mills Coll
 
 * .vwf files
   * Run functional simulations of code and visually present inputs and outputs.
+
+* control_unit.v, cpu.v, instruction_memory.v
+  * Created top-level design entity (cpu.v) and the control unit, implementing a simple microprocessor.
+  * Coded fibonacci sequence in assembly language and machine language. 
