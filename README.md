@@ -12,4 +12,4 @@ Low-level language programming exercises for Computer Architecture at Mills Coll
 
 * control_unit.v, cpu.v, instruction_memory.v
   * Created top-level design entity (cpu.v) and the control unit, implementing a simple microprocessor.
-  * Coded fibonacci sequence in assembly language and machine language. 
+  * Coded fibonacci sequence in assembly language and machine language (instruction_memory.v). 
